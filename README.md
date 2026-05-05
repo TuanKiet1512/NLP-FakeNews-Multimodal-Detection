@@ -17,9 +17,7 @@ Tin giả ngày nay không chỉ nằm ở câu chữ mà còn được lồng g
   🏗 Kiến trúc mô hìnhMô hình được xây dựng bằng PyTorch với các thành phần chính:
   
     -Text Branch: BERT Model lấy đầu ra là pooler_output (768 chiều).
-    
     -Image Branch: ResNet50 loại bỏ lớp phân loại cuối (Identity), giữ lại vector đặc trưng (2048 chiều).
-    
     -Fusion Layer: Kết hợp 2 vector (768+2048=2816) đi qua lớp Fully Connected với Dropout (0.7) để tránh overfitting.
 
     
