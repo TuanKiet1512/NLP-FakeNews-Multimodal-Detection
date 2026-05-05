@@ -1,4 +1,5 @@
 ==========Multimodal Fake News Detection (BERT + ResNet50)==========
+
 Dự án này sử dụng phương pháp học sâu đa phương thức (Multimodal Deep Learning) để phân loại tin tức giả (Fake News) dựa trên cả nội dung văn bản và hình ảnh đi kèm. Mô hình kết hợp sức mạnh của BERT (xử lý ngôn ngữ tự nhiên) và ResNet50 (xử lý hình ảnh) để tối ưu hóa độ chính xác trong việc nhận diện thông tin sai lệch.
 
 
