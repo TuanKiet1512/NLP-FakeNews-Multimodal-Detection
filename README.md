@@ -40,7 +40,7 @@ Tiền xử lý:
 
 🔗 Liên kết tham khảo
 
-Hugging Face: https://huggingface.co/spaces/kiet15122005/FakeNews-Multimodal-Detection
+Giao diện nhúng mô hình(Hugging Face): https://huggingface.co/spaces/kiet15122005/FakeNews-Multimodal-Detection
 
 Dataset: https://www.kaggle.com/datasets/vanshikavmittal/fakeddit-dataset
 
